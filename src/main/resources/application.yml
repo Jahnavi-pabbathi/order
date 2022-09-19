@@ -8,9 +8,9 @@ spring:
       fail-on-empty-beans: false
   datasource:
     driver-class-name: org.postgresql.Driver
-       url: jdbc:postgresql://ec2-3-211-221-185.compute-1.amazonaws.com:5432/dbk3bq6qe559gg?sslmode=disable
-    username: lgtbxzutnqmciv
-    password: ee080e942c156f0c5427ef52e9a73d1616e396b0dc28ad07bae93d5668f331be
+       url: jdbc:postgresql://ec2-54-80-123-146.compute-1.amazonaws.com:5432/daq3o2pa3sjjg9?sslmode=disable
+    username: kkhxdjkortfsjj
+    password: 16b91622ca4217497886e23f6f4b46a0c1870f278035412a2713fb89d4f61ae6
   jpa:
     generate-ddl: 'false'
     database: POSTGRESQL
